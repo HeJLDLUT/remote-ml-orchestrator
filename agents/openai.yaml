@@ -1,0 +1,4 @@
+interface:
+  display_name: "Remote ML Orchestrator"
+  short_description: "Run ML experiments safely across remote CPU servers"
+  default_prompt: "Use $remote-ml-orchestrator to inspect my SSH servers, plan a load-aware distributed run, and return verified results."
